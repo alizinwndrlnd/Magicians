@@ -1,3 +1,75 @@
 .navbar {
     background-color: #1b2f3a;
 }
+
+.card {
+    height: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: #579394;
+}
+
+header {
+    height: 300px;
+    background-image: url(../img/header.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.container {
+    background-color: rgb(255 255 255 / .7);
+    
+}
+
+.grossman {
+    width: 70%;
+    border-radius: 20px;
+    border: 3px dotted #579394;
+    margin: 1rem auto;
+
+}
+
+.grossman img {
+    width: 170px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    float: right;
+}
+
+th, td {
+    margin: auto;
+    padding: 0.5rem;
+    border: 1px solid #579394; 
+}
+
+.nev {
+    font-variant: small-caps;
+}
+
+ul li {
+    line-height: 2.5rem;
+}
+
+h1, h2 {
+    color: #579394;
+}
+
+h1 {
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+a {
+    color: #579394;
+
+}
+
+a:hover {
+    color: red;
+}
