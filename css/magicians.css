@@ -73,3 +73,11 @@ a {
 a:hover {
     color: red;
 }
+
+h2 {
+    border-bottom: 1px dotted;
+}
+
+table {
+    margin: auto;
+}
