@@ -54,6 +54,7 @@ th, td {
 
 ul li {
     line-height: 2.5rem;
+    list-style:none;
 }
 
 h1, h2 {
